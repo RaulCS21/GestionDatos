@@ -1,0 +1,101 @@
+fecha,hora,ubicacion,tipo_accidente,condiciones_climaticas,vehiculos_involucrados,edad_victima,genero_victima,lesion
+01/01/2024,20:07,Cusco,Atropello,Nublado,4,44.0,F,Leve
+02/01/2024,0:47,Piura,Choque,Nublado,2,49.0,F,Grave
+03/01/2024,8:15,Piura,Colision multiple,Nublado,5,,F,Leve
+04/01/2024,7:08,Arequipa,Choque,Soleado,4,49.0,F,Fatal
+05/01/2024,23:06,Arequipa,Choque,Soleado,2,,F,Leve
+06/01/2024,21:47,Arequipa,Choque,Lluvioso,1,,F,Grave
+07/01/2024,17:05,Arequipa,Choque,Soleado,3,64.0,M,Leve
+08/01/2024,18:27,Piura,Atropello,Niebla,5,47.0,M,Fatal
+09/01/2024,1:01,Piura,Atropello,Lluvioso,5,57.0,F,Fatal
+10/01/2024,2:13,Lima,Colision multiple,Nublado,3,43.0,F,Fatal
+11/01/2024,7:32,Piura,Colision multiple,Lluvioso,1,,M,Leve
+12/01/2024,19:01,Cusco,Colision multiple,Soleado,2,,M,Leve
+13/01/2024,17:12,Trujillo,Atropello,Soleado,3,29.0,F,Grave
+14/01/2024,22:41,Lima,Colision multiple,Niebla,2,,F,Leve
+15/01/2024,22:34,Lima,Choque,Soleado,2,38.0,M,Fatal
+16/01/2024,13:14,Cusco,Atropello,Niebla,2,,F,Leve
+17/01/2024,14:37,Cusco,Colision multiple,Soleado,1,,F,Grave
+18/01/2024,8:51,Arequipa,Choque,Lluvioso,1,,F,Fatal
+19/01/2024,0:48,Lima,Colision multiple,Soleado,2,34.0,M,Fatal
+20/01/2024,5:44,Arequipa,Colision multiple,Niebla,4,48.0,M,Leve
+21/01/2024,13:21,Piura,Colision multiple,Nublado,5,65.0,M,Grave
+22/01/2024,8:09,Lima,Volcadura,Lluvioso,1,40.0,F,Fatal
+23/01/2024,6:48,Lima,Colision multiple,Lluvioso,4,59.0,F,Fatal
+24/01/2024,10:06,Trujillo,Colision multiple,Lluvioso,4,67.0,M,Leve
+25/01/2024,2:24,Arequipa,Atropello,Lluvioso,5,66.0,M,Fatal
+26/01/2024,3:22,Piura,Atropello,Nublado,2,33.0,M,Fatal
+27/01/2024,11:38,Arequipa,Volcadura,Soleado,4,19.0,M,Leve
+28/01/2024,8:51,Arequipa,Atropello,Lluvioso,4,33.0,F,Fatal
+29/01/2024,1:46,Trujillo,Choque,Niebla,4,48.0,F,Fatal
+30/01/2024,14:34,Arequipa,Choque,Nublado,2,54.0,M,Leve
+31/01/2024,3:59,Arequipa,Volcadura,Lluvioso,2,,M,Fatal
+01/02/2024,12:05,Cusco,Choque,Niebla,1,,M,Fatal
+02/02/2024,17:18,Piura,Choque,Lluvioso,1,28.0,F,Leve
+03/02/2024,20:39,Piura,Colision multiple,Soleado,4,67.0,F,Fatal
+04/02/2024,11:36,Trujillo,Atropello,Nublado,2,37.0,F,Fatal
+05/02/2024,6:45,Arequipa,Choque,Soleado,2,55.0,F,Leve
+06/02/2024,2:02,Piura,Choque,Nublado,5,,F,Leve
+07/02/2024,21:14,Arequipa,Atropello,Lluvioso,4,43.0,M,Fatal
+08/02/2024,9:05,Cusco,Choque,Lluvioso,1,22.0,F,Leve
+09/02/2024,7:55,Trujillo,Choque,Nublado,5,,F,Fatal
+10/02/2024,3:24,Cusco,Colision multiple,Niebla,2,61.0,M,Fatal
+11/02/2024,8:29,Cusco,Colision multiple,Niebla,1,68.0,M,Fatal
+12/02/2024,20:53,Piura,Choque,Soleado,4,,M,Leve
+13/02/2024,11:10,Trujillo,Atropello,Lluvioso,2,,F,Fatal
+14/02/2024,11:22,Lima,Choque,Soleado,4,,F,Leve
+15/02/2024,6:42,Arequipa,Choque,Lluvioso,5,,M,Fatal
+16/02/2024,8:44,Arequipa,Colision multiple,Nublado,5,,M,Leve
+17/02/2024,21:41,Lima,Volcadura,Niebla,5,,F,Leve
+18/02/2024,2:38,Cusco,Volcadura,Niebla,3,,M,Grave
+19/02/2024,20:10,Cusco,Volcadura,Soleado,4,63.0,F,Fatal
+20/02/2024,17:46,Piura,Volcadura,Niebla,5,45.0,F,Fatal
+21/02/2024,7:10,Piura,Atropello,Niebla,5,,M,Leve
+22/02/2024,14:24,Cusco,Volcadura,Nublado,4,,M,Leve
+23/02/2024,8:59,Piura,Colision multiple,Niebla,5,,M,Grave
+24/02/2024,20:44,Arequipa,Atropello,Soleado,4,,M,Fatal
+25/02/2024,17:14,Lima,Volcadura,Soleado,2,38.0,M,Grave
+26/02/2024,21:20,Lima,Colision multiple,,4,,M,Fatal
+27/02/2024,1:14,Lima,Volcadura,Lluvioso,4,46.0,M,Fatal
+28/02/2024,1:51,Arequipa,Choque,Soleado,3,,M,Leve
+29/02/2024,10:25,Lima,Choque,Soleado,2,,F,Leve
+01/03/2024,8:04,Lima,Volcadura,Soleado,3,39.0,F,Leve
+02/03/2024,6:58,Cusco,Choque,Nublado,5,,M,Grave
+03/03/2024,18:56,Lima,Choque,Niebla,4,,M,Grave
+04/03/2024,22:20,Piura,Volcadura,Niebla,2,,F,Fatal
+05/03/2024,6:41,Arequipa,Volcadura,Soleado,3,,F,Leve
+06/03/2024,15:25,Cusco,Atropello,Soleado,4,,M,Fatal
+07/03/2024,20:29,Trujillo,Volcadura,Nublado,1,,M,Leve
+08/03/2024,4:16,Arequipa,Choque,Soleado,3,53.0,F,Fatal
+09/03/2024,4:15,Piura,Atropello,Niebla,2,51.0,M,Leve
+10/03/2024,23:35,Arequipa,Volcadura,Soleado,3,23.0,F,Fatal
+11/03/2024,17:16,Piura,Volcadura,Nublado,3,,M,Leve
+12/03/2024,23:37,Piura,Atropello,Soleado,3,49.0,F,Grave
+13/03/2024,13:57,Trujillo,Colision multiple,Lluvioso,5,,M,Fatal
+14/03/2024,18:25,Cusco,Volcadura,Niebla,1,,F,Leve
+15/03/2024,11:14,Trujillo,Choque,Nublado,2,46.0,M,Fatal
+16/03/2024,4:32,Trujillo,Volcadura,Soleado,2,,F,Fatal
+17/03/2024,15:05,Arequipa,Choque,Niebla,2,,M,Fatal
+18/03/2024,1:55,Lima,Atropello,Niebla,4,62.0,F,Fatal
+19/03/2024,3:09,Lima,Volcadura,Soleado,2,,F,Grave
+20/03/2024,20:10,Trujillo,Choque,Niebla,2,,M,Fatal
+21/03/2024,21:27,Cusco,Choque,Niebla,1,,F,Grave
+22/03/2024,19:04,Trujillo,Atropello,Nublado,4,,M,Fatal
+23/03/2024,12:24,Trujillo,Volcadura,Niebla,4,,F,Grave
+24/03/2024,19:29,Trujillo,Volcadura,Nublado,3,34.0,M,Grave
+25/03/2024,16:16,Lima,Volcadura,Niebla,5,25.0,F,Leve
+26/03/2024,17:55,Lima,Volcadura,Lluvioso,4,38.0,M,Fatal
+27/03/2024,0:43,Lima,Atropello,Lluvioso,4,65.0,F,Fatal
+28/03/2024,23:07,Trujillo,Volcadura,Nublado,1,30.0,M,Fatal
+29/03/2024,21:56,Cusco,Colision multiple,Nublado,2,,M,Fatal
+30/03/2024,17:48,Cusco,Volcadura,Lluvioso,4,,M,Leve
+31/03/2024,8:49,Arequipa,Volcadura,Niebla,4,24.0,M,Fatal
+01/04/2024,20:21,Arequipa,Choque,Nublado,5,36.0,F,Fatal
+02/04/2024,3:18,Arequipa,Colision multiple,Soleado,1,41.0,M,Fatal
+03/04/2024,13:10,Piura,Volcadura,Niebla,5,37.0,M,Grave
+04/04/2024,14:00,Trujillo,Choque,Niebla,4,63.0,M,Fatal
+05/04/2024,23:56,Arequipa,Volcadura,Lluvioso,4,35.0,F,Fatal
+06/04/2024,23:16,Trujillo,Volcadura,Nublado,1,,F,Fatal
+07/04/2024,16:48,Arequipa,Atropello,Niebla,3,62.0,M,Fatal
+08/04/2024,5:32,Cusco,Volcadura,Nublado,3,,F,Fatal
+09/04/2024,3:55,Cusco,Atropello,Nublado,4,24.0,M,Fatal
